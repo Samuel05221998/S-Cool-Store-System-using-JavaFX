@@ -1,1 +1,0 @@
-# S-Cool-Store-System-using-JavaFX
